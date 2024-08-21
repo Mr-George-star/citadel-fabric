@@ -1,0 +1,15 @@
+accessWidener v2 named
+
+accessible field net/minecraft/client/MinecraftClient renderTickCounter Lnet/minecraft/client/render/RenderTickCounter;
+accessible field net/minecraft/client/render/RenderTickCounter tickTime F
+mutable field net/minecraft/client/render/RenderTickCounter tickTime F
+
+accessible field net/minecraft/structure/pool/StructurePool elements Lit/unimi/dsi/fastutil/objects/ObjectArrayList;
+mutable field net/minecraft/structure/pool/StructurePool elements Lit/unimi/dsi/fastutil/objects/ObjectArrayList;
+accessible field net/minecraft/structure/pool/StructurePool elementCounts Ljava/util/List;
+mutable field net/minecraft/structure/pool/StructurePool elementCounts Ljava/util/List;
+
+accessible method net/minecraft/util/registry/RegistryEntryList$Named <init> (Lnet/minecraft/util/registry/Registry;Lnet/minecraft/tag/TagKey;)V
+
+accessible field net/minecraft/client/gui/screen/ConfirmScreen callback Lit/unimi/dsi/fastutil/booleans/BooleanConsumer;
+accessible field net/minecraft/client/gui/screen/BackupPromptScreen callback Lnet/minecraft/client/gui/screen/BackupPromptScreen$Callback;
