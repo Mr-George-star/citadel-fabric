@@ -11,8 +11,8 @@
     "Mr.George"
   ],
   "contact": {
-    "sources": "https://github.com/FabricMC/fabric-example-mod",
-    "issues": ""
+    "sources": "https://github.com/Mr-George-star/citadel-fabric",
+    "issues": "https://github.com/Mr-George-star/citadel-fabric/issues"
   },
 
   "license": "GNU LESSER GENERAL PUBLIC LICENSE",
